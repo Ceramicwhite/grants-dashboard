@@ -10,7 +10,7 @@
 
 - [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
-- [Process](../wiki/Process.md)
+- [Process](././wiki/Process.md)
   - [Project Phases & Associated Payments](/docs/Process.md/#project-phases--associated-payments)
     - [A. Application Review Phase](/docs/Process.md/#a-application-review-phase)
     - [B. Onboarding Phase](/docs/Process.md/#b-onboarding-phase)
