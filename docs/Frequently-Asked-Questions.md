@@ -27,8 +27,8 @@
   - [Is there a general set of review criteria?](#is-there-a-general-set-of-review-criteria)
   - [Why are other grant applications receiving feedback and/or approval before mine?](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
   - [My Application was rejected. Do you have any recommendations on where to go from here?](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
-  - [Who is on the application review committee?](#who-is-on-the-application-review-committee)
-  - [How do I join the application review committee?](#how-do-i-join-the-application-review-committee)
+    <!--- - [Who is on the application review committee?](#who-is-on-the-application-review-committee) -->
+    <!--- - [How do I join the application review committee?](#how-do-i-join-the-application-review-committee) -->
 
 ---
 
@@ -37,21 +37,21 @@
   - [How are the value of STX tokens paid out in exchange for grant funding calculated?](#how-are-the-value-of-stx-tokens-paid-out-in-exchange-for-grant-funding-calculated)
   - [Can I request payment in a token or fiat currency other than STX?](#can-i-request-payment-in-a-token-or-fiat-currency-other-than-stx)
   - [Once I’ve finished onboarding, how long does it take to receive my first payment?](#once-ive-finished-onboarding-how-long-does-it-take-to-receive-my-first-payment)
-  - [Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?](#some-level-2-builder-grants-are-subject-to-a-portion-of-the-funding-being-issued-as-a-convertible-note-what-does-that-mean)
   - [How are STX tokens awarded as grant funds taxed?](#how-are-stx-tokens-awarded-as-grant-funds-taxed)
   - [Where can my STX funds be sent to?](#where-can-my-stx-funds-be-sent-to)
   - [Can I change wallet addresses after I have finished onboarding?](#can-i-change-wallet-addresses-after-i-have-finished-onboarding)
   - [The address I listed on my application was wrong and I did not receive my funds, can the Grants Team recover the STX for me and/or replace it?](#the-address-i-listed-on-my-application-was-wrong-and-i-did-not-receive-my-funds-can-the-grants-team-recover-the-stx-for-me-andor-replace-it)
+  <!---  - [Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?](#some-level-2-builder-grants-are-subject-to-a-portion-of-the-funding-being-issued-as-a-convertible-note-what-does-that-mean) -->
 
 ---
 
 - [Milestone Delivery](#milestone-delivery)
-  - [How do I submit a Milestone?](#how-do-i-submit-a-milestone)
+    <!---- [How do I submit a Milestone?](#how-do-i-submit-a-milestone) -->
   - [Can I change the scope of my project after the application has been approved?"](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
   - [My next milestone/deliverables have changed, what should I do?](#my-next-milestonedeliverables-have-changed-what-should-i-do)
   - [Can I submit a Grant for prior work?](#can-i-submit-a-grant-for-prior-work)
-  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean)
   - [I am unable to complete my grant, what are the steps for notifying the Grants team?](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
+  <!---  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean) -->
 
 ---
 
@@ -131,11 +131,11 @@ Unless expressly agreed otherwise in writing by the Foundation, the grantee shal
 
 ### How long does the grant review process usually take?
 
-Please refer to [Application Review Phase Schedule](/docs/Process.md#application-review-phase-schedule) for an up-to-date schedule of when application review will happen.
+Please refer to [Application Review Phase Schedule](/docs/Process.md#application-review-phase-schedule) for an up-to-date schedule of when application review will take place.
 
 ### Is there a general set of review criteria?
 
-Please consult the [Project Application Expectations](./docs/Project-Aplication-Guidelines.md/#project-application-expectations) section.
+Please consult the [Project Application Expectations](/docs/Project-Aplication-Guidelines.md/#project-application-expectations) section.
 
 ### Why are other grant applications receiving feedback and/or approval before mine?
 
@@ -143,16 +143,16 @@ Feedback and review are based on the grant track and amount requested. The appli
 
 ### My Application was rejected. Do you have any recommendations on where to go from here?
 
-???????????
+All rejecections will include feedback from the Review Committee, if there are any follow-up questions please submit them to the [Discussion Section](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions).
 
-### How do I join the application review committee?
+<!---### How do I join the application review committee?
 
-?????????????
+????????????? -->
 
-### Who is on the application review committee?
+<!---### Who is on the application review committee?
 
 ????????????
-Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee)
+Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee) -->
 
 </br>
 
@@ -174,9 +174,9 @@ Sorry, the Grants Program only funds grants in STX tokens.
 
 The tip-off payment and any subsequent milestone payments can take up to 21 days, as explained in the contract. Day 1 begins once onboarding is complete for tip-off payment and milestone payment processing begins upon approval of milestone deliverables.
 
-### Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?
+<!---### Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?
 
-?????????????????
+????????????????? -->
 
 ### How are STX tokens awarded as grant funds taxed?
 
@@ -198,9 +198,9 @@ Unfortunately, once the payment has been sent, there is nothing we can do, as th
 
 ## Milestone Delivery
 
-### How do I submit a Milestone?
+<!---### How do I submit a Milestone?
 
-????????????????????
+???????????????????? -->
 
 ### Can I change the scope of my project after the application has been approved?
 
@@ -214,9 +214,9 @@ Please comment on your project issue within the repo and explain the reasoning f
 
 We do not approve grants for prior work. Applying for a grant to add new features will be considered as any other grant application.
 
-### My Grant has become stale. What does this mean?
+<!---### My Grant has become stale. What does this mean?
 
-???????????
+??????????? -->
 
 ### I am unable to complete my grant, what are the steps for notifying the Grants team?
 
