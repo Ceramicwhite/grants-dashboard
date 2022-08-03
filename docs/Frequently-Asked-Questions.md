@@ -65,13 +65,13 @@
 
 ### Does a project need to be open-source to receive grant funding?
 
-All code produced as part of a grant must be open-source as explained in the [Project Requirements](/docs/Project-Aplication-Guidelines.md/#project-requirements) section. It must also not rely on closed-source software for full functionality.
+All code produced as part of a grant must be open-source as explained in the [Project Requirements](./Project-Aplication-Guidelines/#project-requirements) section. It must also not rely on closed-source software for full functionality.
 
 > We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.
 
 ### Is there a typical funding range for a certain level of grant type?
 
-Please refer to [Grant Types](/docs/Grant-Types.md) for information concerning the funding range for different grant tracks.
+Please refer to [Grant Types](./Grant-Types) for information concerning the funding range for different grant tracks.
 
 ### Can I list the Stacks Foundation as a partner?
 
