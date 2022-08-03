@@ -10,8 +10,8 @@
 
 - [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
-- [Process](/docs/Process.md)
-  - [Project Phases & Associated Payments](/wiki/Process.md/#project-phases--associated-payments)
+- [Process](/wiki/Process.md)
+  - [Project Phases & Associated Payments](/docs/Process.md/#project-phases--associated-payments)
     - [A. Application Review Phase](/docs/Process.md/#a-application-review-phase)
     - [B. Onboarding Phase](/docs/Process.md/#b-onboarding-phase)
     - [C. Milestone Deliverable Phase](/docs/Process.md/#c-milestone-deliverable-phase)
