@@ -1,0 +1,3 @@
+- name: github-docs-to-wiki
+  uses: cmbrose/github-docs-to-wiki@v0.24
+  defaultBranch: docs
