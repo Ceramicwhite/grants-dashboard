@@ -1,7 +1,7 @@
 # Stacks Foundation Projects Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/grants_program_header.png" style="width:1300px";>
+  <img src="/docs/assets/images/grants_program_header.png" style="width:1300px";>
 </p>
 
 ---
@@ -77,7 +77,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 ## Additional Resources
 
-<img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/stacks-launchpad.png?s=50" width="250">
+<img src="./docs/assets/images/stacks-launchpad.png?s=50" width="250">
 
 - [Discussion Forums](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions)
 - [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/projects/)
@@ -90,11 +90,11 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-| <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/blog.png?s=50" width="50"> |
+| <img src="./docs/assets/images/web.png?s=50" width="50"> | <img src="./docs/assets/images/discord.png?s=50" width="50"> | <img src="./docs/assets/images/twitter.png?s=50" width="50"> | <img src="./docs/assets/images/blog.png?s=50" width="50"> |
 | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 |                                          [Stacks.co](https://stacks.co)                                           |                                       [Discord](https://discord.gg/5usXsXSUAK)                                        |                                         [Twitter](https://twitter.com/Stacks)                                         |                                          [Blog](https://stacks.org/blog)                                           |
 
-| <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/telegram.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/reddit.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/youtube-play.png?s=50" width="50"> | <img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/calendar.png?s=50" width="50"> |
+| <img src="./docs/assets/images/telegram.png?s=50" width="50"> | <img src="./docs/assets/images/reddit.png?s=50" width="50"> | <img src="./docs/assets/images/youtube-play.png?s=50" width="50"> | <img src="./docs/assets/images/calendar.png?s=50" width="50"> |
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 |                                       [Telegram](https://t.me/BlockstackUpdate)                                        |                                     [ Reddit](https://www.reddit.com/r/stacks/)                                      |                                      [YouTube](https://www.youtube.com/c/Blockstack)                                       |                                [Calendar](https://community.stacks.org/events#calendar)                                |
 
@@ -104,19 +104,19 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-<img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/stacks-governance.png?s=50" width="250">
+<img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
 
 - [Stacks Governance Resources](https://github.com/stacksgov/resources#stacks-governance---resources)
 - [Stacks Improvment Proposals](b.com/stacksgov/sips#stacks-improvement-proposals-sips)
 - [Stacks Residence Program](https://github.com/stacksgov/residence-program)
 
-<img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/stacks-foundation.png?s=50" width="250">
+<img src="./docs/assets/images/stacks-foundation.png?s=50" width="250">
   
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
 
-<img src="https://github.com/Ceramicwhite/grants-dashboard/blobhttps://github.com/Ceramicwhite/grants-dashboard/wiki/docs/assets/images/stacks-accelerator.png?s=50" width="250">
+<img src="./docs/assets/images/stacks-accelerator.png?s=50" width="250">
 
 - [Stacks Ventures](https://stacksventures.io/)
 - [Stacks Accelerator](https://stacks.ac/)
