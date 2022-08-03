@@ -1,4 +1,5 @@
 # Project & Project Application Guidelines<!-- omit in toc -->
+
 - [Project & Project Application Guidelines](#project--project-application-guidelines)
   - [Project Requirements](#project-requirements)
   - [Project Application Expectations](#project-application-expectations)
@@ -57,6 +58,7 @@ Before submitting your application, ask yourself the following questions:
 </br>
 
 ## Project Lead Responsiblities
+
 ---
 
 When you submit an application, you are considered the applicant or Project Lead. Before you submit, its worth better understanding the responsiblities that come with that role:

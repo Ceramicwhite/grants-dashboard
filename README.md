@@ -8,7 +8,7 @@
 
 </br>
 
-- [Introduction](#-introduction)
+- [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
 - [Process](/docs/process.md)
   - [Project Phases & Associated Payments](/docs/process.md/#project-phases--associated-payments)
@@ -41,11 +41,11 @@
 
 ## Introduction
 
----
-
 As part of our commitment to promoting a user-owned internet, The Stacks Foundation provides support for a comprehensive set of project types through a range of Funding Streams focused on funding software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf). Anyone is welcome to submit a project application. Projects funded through our programs are broad in scope, but our focus lies on strong **technical** projects that _add immediate and widespread value_ to the Stacks ecosystem. Projects are supported through grants, residencies, and other means of funding. Each Project Type belongs to a specific Funding Streams.
 
-### Funding Streams & Project Types
+</br>
+
+## Funding Streams & Project Types
 
 | FUNDING STREAMS              | PROJECT TYPE                        |                                                                         DETAILS |
 | ---------------------------- | :---------------------------------- | ------------------------------------------------------------------------------: |
@@ -71,26 +71,16 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-> If you have questions regarding the Process please ask on the [Process Discussion Board](#process-discussion-board).
->
-> If you are having a difficult time visualizing the Process we encourage you to visit the [Projects Kanban Board](#projects-kanban-board).
->
-> If you have questions about a specific project idea, submit an application. This is the best way to get feedback.
->
-> If you feel you require a 1-on-1 meeting to discuss your project idea, you must first submit an application and request a meeting in the comment section below your project application Github issue. These requests will be accepted on an incredibly rare basis.
+<b>Visit the [Grants Process Page](/docs/process.md) for next steps towards applying for a grant</b>
 
 </br>
 
 ## Additional Resources
 
----
-
-</br>
-
 <img src="./assets/images/stacks-launchpad.png?s=50" width="250">
 
 - [Discussion Forums](https://github.com/stacksgov/grants-dashboard/discussions)
-- [Grant Kanban](https://github.com/stacksgov/grants-dashboard/projects/1)
+- [Grants Kanban Board](https://github.com/stacksgov/grants-dashboard/projects/1)
 - [STX Converter]()
 - [Data Exporter]()
 

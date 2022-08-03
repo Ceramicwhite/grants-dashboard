@@ -1,4 +1,5 @@
 # Project Phases & Associated Payments<!-- omit in toc -->
+
 - [Project Phases & Associated Payments](#project-phases--associated-payments)
   - [A. Application Review Phase](#a-application-review-phase)
   - [B. Onboarding Phase](#b-onboarding-phase)
@@ -6,8 +7,8 @@
   - [D. Final Deliverable Phase](#d-final-deliverable-phase)
 - [Application Review Phase Schedule](#application-review-phase-schedule)
 - [Payments](#payments)
-    - [Payment Quantity, Milestone Quantity, & Payment Sizing](#payment-quantity-milestone-quantity--payment-sizing)
-    - [Payment Notes](#payment-notes)
+  - [Payment Quantity, Milestone Quantity, & Payment Sizing](#payment-quantity-milestone-quantity--payment-sizing)
+  - [Payment Notes](#payment-notes)
 
 ---
 
@@ -108,6 +109,7 @@ _Applications for projects **over $25k** take between 6-9 weeks to process._
 |     **Q3-B**     |  8/8/2022  | 9/10/2022  | 9/11/2022  | 9/23/2022  |
 |     **Q4-A**     | 9/11/2022  | 10/29/2022 | 10/30/2022 | 11/11/2022 |
 |     **Q4-B**     | 10/30/2022 | 12/10/2022 | 12/11/2022 | 12/23/2022 |
+
 |
 
 </br>
@@ -115,6 +117,7 @@ _Applications for projects **over $25k** take between 6-9 weeks to process._
 ## Payments
 
 ---
+
 ### Payment Quantity, Milestone Quantity, & Payment Sizing
 
 | **PROJECT BUDGET**                                 | **NUMBER OF PAYMENTS** | **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** |
@@ -135,3 +138,13 @@ _Applications for projects **over $25k** take between 6-9 weeks to process._
 2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](link)
 3. All payments are disbursed at the successful **conclusion** of each project phase, as outlined [here](link).
 4. All payments will be disbursed within 20 days of each successfully completed project phase.
+
+</br>
+
+> If you have questions regarding the Process please ask on the [Discussion Board](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions).
+>
+> If you are having a difficult time visualizing the Process we encourage you to visit the [Projects Kanban Board](#projects-kanban-board).
+>
+> If you have questions about a specific project idea, submit an application. This is the best way to get feedback.
+>
+> If you feel you require a 1-on-1 meeting to discuss your project idea, you must first submit an application and request a meeting in the comment section below your project application Github issue. These requests will be accepted on an incredibly rare basis.
