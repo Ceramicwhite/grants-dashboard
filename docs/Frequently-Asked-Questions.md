@@ -65,7 +65,7 @@
 
 ### Does a project need to be open-source to receive grant funding?
 
-All code produced as part of a grant must be open-source as explained in the [Project Requirements](./Project-Aplication-Guidelines/#project-requirements) section. It must also not rely on closed-source software for full functionality.
+All code produced as part of a grant must be open-source as explained in the [Project Requirements](./Project-Aplication-Guidelines#project-requirements) section. It must also not rely on closed-source software for full functionality.
 
 > We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.
 
