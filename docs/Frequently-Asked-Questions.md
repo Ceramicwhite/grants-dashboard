@@ -131,7 +131,7 @@ Unless expressly agreed otherwise in writing by the Foundation, the grantee shal
 
 ### How long does the grant review process usually take?
 
-Please refer to [Application Review Phase Schedule](/docs/Process.md#application-review-phase-schedule) for an up-to-date schedule of when application review will take place.
+Please refer to [Application Review Phase Schedule](./Process.md/#application-review-phase-schedule) for an up-to-date schedule of when application review will take place.
 
 ### Is there a general set of review criteria?
 
