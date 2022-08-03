@@ -10,28 +10,28 @@
 
 - [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
-- [Process](././wiki/Process.md)
-  - [Project Phases & Associated Payments](/docs/Process.md/#project-phases--associated-payments)
-    - [A. Application Review Phase](/docs/Process.md/#a-application-review-phase)
-    - [B. Onboarding Phase](/docs/Process.md/#b-onboarding-phase)
-    - [C. Milestone Deliverable Phase](/docs/Process.md/#c-milestone-deliverable-phase)
-    - [D. Final Deliverable Phase](/docs/Process.md/#d-final-deliverable-phase)
-  - [Application Review Phase Schedule](/docs/Process.md/#application-review-phase-schedule)
+- [Process](../wiki/Process)
+  - [Project Phases & Associated Payments](/docs/Process.md#project-phases--associated-payments)
+    - [A. Application Review Phase](/docs/Process.md#a-application-review-phase)
+    - [B. Onboarding Phase](/docs/Process.md#b-onboarding-phase)
+    - [C. Milestone Deliverable Phase](/docs/Process.md#c-milestone-deliverable-phase)
+    - [D. Final Deliverable Phase](/docs/Process.md#d-final-deliverable-phase)
+  - [Application Review Phase Schedule](/docs/Process.md#application-review-phase-schedule)
   - [Payments](/docs/Payments.md)
-    - [Payment Quantity, Milestone Quantity, & Payment Sizing](/docs/Payments.md/#payment-quantity-milestone-quantity--payment-sizing)
-    - [Payment Notes](/docs/Payments.md/#payment-notes)
-- [Project & Project Application Guidelines](/docs/Project-Aplication-Guidelines.md/#project--project-application-guidelines)
-  - [Project Requirements](/docs/Project-Aplication-Guidelines.md/#project-requirements)
-  - [Project Application Expectations](/docs/Project-Aplication-Guidelines.md/#project-application-expectations)
-  - [Project Application Suggestions](/docs/Project-Aplication-Guidelines.md/#project-application-suggestions)
-  - [Project Lead Responsiblities](/docs/Project-Aplication-Guidelines.md/#project-lead-responsiblities)
-- [Funding Stream Details](/docs/Funding-Stream-Details.md/#funding-stream-details)
-  - [Developer Grants](/docs/Funding-Stream-Details.md/#/docs/grant-types.md)
-  - [Community Grants](/docs/Funding-Stream-Details.md/#community-grants)
-  - [Wishlist Grants](/docs/Funding-Stream-Details.md/#wishlist-grants)
-  - [Advanced Support](/docs/Funding-Stream-Details.md/#advanced-support)
-  - [Ecosystem Partner Grants](/docs/Funding-Stream-Details.md/#ecosystem-partner-grants)
-  - [Affiliated Organizations](/docs/Funding-Stream-Details.md/#affiliated-organizations)
+    - [Payment Quantity, Milestone Quantity, & Payment Sizing](/docs/Payments.md#payment-quantity-milestone-quantity--payment-sizing)
+    - [Payment Notes](/docs/Payments.md#payment-notes)
+- [Project & Project Application Guidelines](/docs/Project-Aplication-Guidelines.md#project--project-application-guidelines)
+  - [Project Requirements](/docs/Project-Aplication-Guidelines.md#project-requirements)
+  - [Project Application Expectations](/docs/Project-Aplication-Guidelines.md#project-application-expectations)
+  - [Project Application Suggestions](/docs/Project-Aplication-Guidelines.md#project-application-suggestions)
+  - [Project Lead Responsiblities](/docs/Project-Aplication-Guidelines.md#project-lead-responsiblities)
+- [Funding Stream Details](/docs/Funding-Stream-Details.md#funding-stream-details)
+  - [Developer Grants](/docs/Funding-Stream-Details.md#/docs/grant-types.md)
+  - [Community Grants](/docs/Funding-Stream-Details.md#community-grants)
+  - [Wishlist Grants](/docs/Funding-Stream-Details.md#wishlist-grants)
+  - [Advanced Support](/docs/Funding-Stream-Details.md#advanced-support)
+  - [Ecosystem Partner Grants](/docs/Funding-Stream-Details.md#ecosystem-partner-grants)
+  - [Affiliated Organizations](/docs/Funding-Stream-Details.md#affiliated-organizations)
 - [Frequently Asked Questions](/docs/Frequently-Asked-Questions.md)
 - [Additional Resources](#additional-resources)
   - [Stacks Project Launchpad](#stacks-project-launchpad)
@@ -50,23 +50,23 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 | FUNDING STREAMS              | PROJECT TYPE                        |                                                                         DETAILS |
 | ---------------------------- | :---------------------------------- | ------------------------------------------------------------------------------: |
 | **Developer Grants**         |                                     |
-|                              | Open Source Starter Grant           |           [details](/docs/Funding-Stream-Details.md/#open-source-starter-grant) |
-|                              | Open Source Builder Grant           |           [details](/docs/Funding-Stream-Details.md/#open-source-builder-grant) |
+|                              | Open Source Starter Grant           |           [details](/docs/Funding-Stream-Details.md#open-source-starter-grant) |
+|                              | Open Source Builder Grant           |           [details](/docs/Funding-Stream-Details.md#open-source-builder-grant) |
 | **Community Grants**         |                                     |                                                                                 |
-|                              | Stacks Community Builder Grant      |      [details](/docs/Funding-Stream-Details.md/#stacks-community-builder-grant) |
-|                              | Stacks Education Grant              |              [details](/docs/Funding-Stream-Details.md/#stacks-education-grant) |
-|                              | Stacks Event Grant                  |                  [details](/docs/Funding-Stream-Details.md/#stacks-event-grant) |
-|                              | Stacks Chapter Grant (by Region)    |      [details](/docs/Funding-Stream-Details.md/#stacks-chapter-grant-by-region) |
+|                              | Stacks Community Builder Grant      |      [details](/docs/Funding-Stream-Details.md#stacks-community-builder-grant) |
+|                              | Stacks Education Grant              |              [details](/docs/Funding-Stream-Details.md#stacks-education-grant) |
+|                              | Stacks Event Grant                  |                  [details](/docs/Funding-Stream-Details.md#stacks-event-grant) |
+|                              | Stacks Chapter Grant (by Region)    |      [details](/docs/Funding-Stream-Details.md#stacks-chapter-grant-by-region) |
 | **Wishlist Grants**          |                                     |                                                                                 |
-|                              | Wishlist Grants                     |                     [details](/docs/Funding-Stream-Details.md/#wishlist-grants) |
+|                              | Wishlist Grants                     |                     [details](/docs/Funding-Stream-Details.md#wishlist-grants) |
 | **Advanced Support**         |                                     |                                                                                 |
-|                              | Stacks Foundation Resident Program  |  [details](/docs/Funding-Stream-Details.md/#stacks-foundation-resident-program) |
-|                              | Stacks Foundation Direct Investment | [details](/docs/Funding-Stream-Details.md/#stacks-foundation-direct-investment) |
+|                              | Stacks Foundation Resident Program  |  [details](/docs/Funding-Stream-Details.md#stacks-foundation-resident-program) |
+|                              | Stacks Foundation Direct Investment | [details](/docs/Funding-Stream-Details.md#stacks-foundation-direct-investment) |
 | **Ecosystem Partner Grants** |                                     |                                                                                 |
-|                              | ALEX (DeFi) Grant                   |                     [details](/docs/Funding-Stream-Details.md/#alex-defi-grant) |
+|                              | ALEX (DeFi) Grant                   |                     [details](/docs/Funding-Stream-Details.md#alex-defi-grant) |
 | **Affiliated Organizations** |                                     |                                                                                 |
-|                              | Stacks Web3 Startup Lab             |             [details](/docs/Funding-Stream-Details.md/#stacks-web3-startup-lab) |
-|                              | Stacks Accelerator                  |                  [details](/docs/Funding-Stream-Details.md/#stacks-accelerator) |
+|                              | Stacks Web3 Startup Lab             |             [details](/docs/Funding-Stream-Details.md#stacks-web3-startup-lab) |
+|                              | Stacks Accelerator                  |                  [details](/docs/Funding-Stream-Details.md#stacks-accelerator) |
 |                              |                                     |
 
 </br>
