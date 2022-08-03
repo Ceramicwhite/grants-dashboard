@@ -10,7 +10,7 @@
 
 Additionally, it must fulfill the following requirements:
 
-- All code produced as part of a project funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.**
+- All code produced as part of a project funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
 - Individuals and teams must finish one project before applying for another one.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 

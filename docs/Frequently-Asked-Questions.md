@@ -17,11 +17,13 @@
 
 ### Does a project need to be open-source to receive grant funding?
 
-Grant Projects don't have to be open-source. Although, for an application to be approved the applicant must show how the project will benefit the Stacks community and in most cases include documentation and/or educational content for the community.
+All code produced as part of a grant must be open-source as explained in the [Project Requirements](/docs/Project-Aplication-Guidelines.md/#project-requirements) section. and it must also not rely on closed-source software for full functionality.
+
+> We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.
 
 ### Is there a typical funding range for a certain level of grant type?
 
-Please refer to [Grant Types](/docs/grant-types.md) for information concerning funding range for different grant tracks.
+Please refer to [Grant Types](/docs/Grant-Types.md) for information concerning funding range for different grant tracks.
 
 ### Can I list the Stacks Foundation as a partner?
 
@@ -39,6 +41,10 @@ Clarity contracts are human readable by design. The Stacks community and the Gra
 
 Please email the Grants Team with all relevant information [grants@stacks.org](mailto:grants@stacks.org)
 
+### Does the Grants Team still host an office hours call?
+
+We don't offer any Office Hours call, we are using new channels for seeking help with community input. Please visit the [Discussion Section](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions) of the repository
+
 </br>
 
 ## Submitting A Grant
@@ -55,7 +61,8 @@ Over 18?
 
 ### Can I have more than two open grants?
 
-If one of the team members is part of another team that has been awarded a grant that will not disqualify the team applying for a grant. Individuals applying for a grant will most likely be asked to complete the first grant before approval of the second solo grant applied for.
+If one of the team members is part of another team that has been awarded a grant that will not disqualify the team applying for a grant.
+Individuals applying for a grant must complete the first grant before approval of the second solo grant applied for.
 
 ### If you prefer to remain anonymous are you still able to be awarded a grant?
 
@@ -75,7 +82,7 @@ The Grants Program will not fund the development of the Art. We will consider fu
 
 ### How long does the grant review process usually take?
 
-Please refer to [Application Review Phase Schedule](#application-review-phase-schedule) for an up to date schedule of when application review will happen.
+Please refer to [Application Review Phase Schedule](/docs/Process.md#application-review-phase-schedule) for an up to date schedule of when application review will happen.
 
 ### Is there a general set of review criteria?
 
