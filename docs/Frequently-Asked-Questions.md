@@ -1,17 +1,65 @@
 # Frequently Asked Questions<!-- omit in toc -->
 
 - [General](#general)
-  - Questions & Answers
+  - [Does a project need to be open-source to receive grant funding?](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
+  - [Is there a typical funding range for a certain level of grant type?](#is-there-a-typical-funding-range-for-a-certain-level-of-grant-type)
+  - [Can I list the Stacks Foundation as a partner?](#can-i-list-the-stacks-foundation-as-a-partner)
+  - [Does the Stacks Foundation help with PR & Marketing of individual Grants?](#does-the-stacks-foundation-help-with-pr--marketing-of-individual-grants)
+  - [Can I reuse someone else’s Clarity Contract or any open-source code as a starting point?](#can-i-reuse-someone-elses-clarity-contract-or-any-open-source-code-as-a-starting-point)
+  - [One of your grantees is using my code without respecting the terms of its license.](#one-of-your-grantees-is-using-my-code-without-respecting-the-terms-of-its-license)
+  - [Does the Grants Team still host an office hours call?](#does-the-grants-team-still-host-an-office-hours-call)
+
+---
+
 - [Submitting A Grant](#submitting-a-grant)
-  - Questions & Answers
+  - [Can anyone apply?](#can-anyone-apply)
+  - [If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
+  - [Can I have more than one open grant?](#can-i-have-more-than-one-open-grant)
+  - [If you prefer to remain anonymous are you still able to be awarded a grant?](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
+  - [Can I submit a grant for an event sponsorship?](#can-i-submit-a-grant-for-an-event-sponsorship)
+  - [Can I submit a grant to fund my NFT project development?](#can-i-submit-a-grant-to-fund-my-nft-project-development)
+  - [Can I subcontract portions of the work described in my application after the application has been accepted?](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
+
+---
+
 - [Review Process](#review-process)
-  - Questions & Answers
+  - [How long does the grant review process usually take?](#how-long-does-the-grant-review-process-usually-take)
+  - [Is there a general set of review criteria?](#is-there-a-general-set-of-review-criteria)
+  - [Why are other grant applications receiving feedback and/or approval before mine?](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
+  - [My Application was rejected. Do you have any recommendations on where to go from here?](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
+  - [Who is on the application review committee?](#who-is-on-the-application-review-committee)
+  - [How do I join the application review committee?](#how-do-i-join-the-application-review-committee)
+
+---
+
 - [Funding & Payments](#funding--payments)
-  - Questions & Answers
+  - [Can I get an upfront payment?](#can-i-get-an-upfront-payment)
+  - [How are the value of STX tokens paid out in exchange for grant funding calculated?](#how-are-the-value-of-stx-tokens-paid-out-in-exchange-for-grant-funding-calculated)
+  - [Can I request payment in a token or fiat currency other than STX?](#can-i-request-payment-in-a-token-or-fiat-currency-other-than-stx)
+  - [Once I’ve finished onboarding, how long does it take to receive my first payment?](#once-ive-finished-onboarding-how-long-does-it-take-to-receive-my-first-payment)
+  - [Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?](#some-level-2-builder-grants-are-subject-to-a-portion-of-the-funding-being-issued-as-a-convertible-note-what-does-that-mean)
+  - [How are STX tokens awarded as grant funds taxed?](#how-are-stx-tokens-awarded-as-grant-funds-taxed)
+  - [Where can my STX funds be sent to?](#where-can-my-stx-funds-be-sent-to)
+  - [Can I change wallet addresses after I have finished onboarding?](#can-i-change-wallet-addresses-after-i-have-finished-onboarding)
+  - [The address I listed on my application was wrong and I did not receive my funds, can the Grants Team recover the STX for me and/or replace it?](#the-address-i-listed-on-my-application-was-wrong-and-i-did-not-receive-my-funds-can-the-grants-team-recover-the-stx-for-me-andor-replace-it)
+
+---
+
 - [Milestone Delivery](#milestone-delivery)
-  - Questions & Answers
+  - [How do I submit a Milestone?](#how-do-i-submit-a-milestone)
+  - [Can I change the scope of my project after the application has been approved?"](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
+  - [My next milestone/deliverables have changed, what should I do?](#my-next-milestonedeliverables-have-changed-what-should-i-do)
+  - [Can I submit a Grant for prior work?](#can-i-submit-a-grant-for-prior-work)
+  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean)
+  - [I am unable to complete my grant, what are the steps for notifying the Grants team?](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
+
+---
+
 - [Completion & Beyond](#completion--beyond)
-  - Questions & Answers
+  - [Can I submit a follow up grant?](#can-i-submit-a-follow-up-grant)
+  - [How long before I can apply for a new grant for a separate project?](#how-long-before-i-can-apply-for-a-new-grant-for-a-separate-project)
+
+</br>
 
 ## General
 
@@ -53,11 +101,9 @@ We don't offer any office hours calls. We are using new channels for seeking hel
 
 To be awarded a grant, the grant lead must be able to pass Know-Your-Customer onboarding in compliance with United States Law. To pass the onboarding, you must be able to supply and submit valid identification documents, proof of residence, and be over the age of 18. Any applicant that is a resident of a country listed on the [U.S. Department of Treasury Sanctions List](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) is not eligible for a grant.
 
-Over 18?
+### If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?
 
-### Can you apply for and be awarded grants if you are currently in the Stacks Accelerator, Clarity Universe or other Stacks ecosystem programs?
-
-If you are currently taking part in one of the other Stacks Launchpad Programs, you are not eligible for a grant during that time.
+If you are currently enrolled in or taking part in one of the other Stacks Launchpad Programs such as [Web3Starup Lab](https://www.web3startuplab.io/), [Stacks Accelerator](https://stacks.ac), [The Mintery](https://mintery.co/), you are not eligible to apply for a grant until you have finished those programs.
 
 ### Can I have more than one open grant?
 
@@ -73,7 +119,7 @@ We accept applications for putting on Stacks related events. Specifically for sp
 
 ### Can I submit a grant to fund my NFT project development?
 
-The Grants Program will not fund the development of the arts. We will consider funding novel smart contracts for non-fungible tokens.
+The Grants Program will not fund the development for the creative aspect, please apply to [the Mintery](https://mintery.co/) for developing your NFT. We will consider funding novel smart contracts for non-fungible tokens.
 
 ### Can I subcontract portions of the work described in my application after the application has been accepted?
 
@@ -89,7 +135,7 @@ Please refer to [Application Review Phase Schedule](/docs/Process.md#application
 
 ### Is there a general set of review criteria?
 
-????????????????
+Please consult the [Project Application Expectations](./docs/Project-Aplication-Guidelines.md/#project-application-expectations) section.
 
 ### Why are other grant applications receiving feedback and/or approval before mine?
 
@@ -156,9 +202,13 @@ Unfortunately, once the payment has been sent, there is nothing we can do, as th
 
 ????????????????????
 
-### My Milestones/deliverables have changed since the grant was approved, what should I do?
+### Can I change the scope of my project after the application has been approved?
 
-Please comment on your project within the repo and explain the reasoning for pivoting. The Grants Team has the right to end the grant at this stage.
+Before revising the scope of your project or the requirements set out in the application, you must submit a request via the comment section below your application issue on GitHub. Any such changes will be subject to reevaluation by the committee under the same conditions as the initial application review process.
+
+### My next milestone/deliverables have changed, what should I do?
+
+Please comment on your project issue within the repo and explain the reasoning for pivoting. The Grants Team has the right to end the grant at this stage.
 
 ### Can I submit a Grant for prior work?
 
@@ -168,17 +218,13 @@ We do not approve grants for prior work. Applying for a grant to add new feature
 
 ???????????
 
-### I am unable to complete my grant, what are the steps for noting the Grants team?
+### I am unable to complete my grant, what are the steps for notifying the Grants team?
 
 Please comment on your project's issue explaining why this is the case.
 
-### Can I change the scope of my project after the application has been approved?"
-
-Before revising the scope of your project or the requirements set out in the application, you must submit a request via the comment section below your application issue on GitHub. Any such changes will be subject to reevaluation by the committee under the same conditions as the initial application review process.
-
 ### Can I get help developing my grant from the Foundation team?
 
-We expect applicants to be well aware of the technical challenges and scope required to develop and complete their grant when submitting their application. The Community and Foundations team members are available to help answer questions and set you up for success in order to complete your application. Please join the [Stacks Discord](https://discord.gg/5usXsXSUAK) for help.
+We expect applicants to be well aware of the technical challenges required to develop and complete their grant when submitting their application. The Community and Foundations team members are available to help answer questions and set you up for success in order to complete your application. Please join the [Stacks Discord](https://discord.gg/5usXsXSUAK) for help.
 
 </br>
 
