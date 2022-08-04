@@ -7,10 +7,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     - uses: actions/checkout@v1
-     - name: github-docs-to-wiki
-       uses: cmbrose/github-docs-to-wiki@v0.24
-       with:
-          #rootDocsFolder: "docs"
-          convertRootReadmeToHomePage: "true"
-          githubToken: ${{ secrets.githubToken }}
+      - uses: actions/checkout@v1
+      # Additional steps to generate documentation in "Documentation" directory
+      - name: Upload Documentation to Wiki
+        uses: SwiftDocOrg/github-wiki-publish-action@v1
+        with:
+          path: "docs"
+        env:
+          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+
