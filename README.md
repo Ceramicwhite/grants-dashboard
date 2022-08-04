@@ -8,7 +8,7 @@
 
 </br>
 
-- [Introduction](##introduction)
+- [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
 - [Process](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process)
   - [Project Phases & Associated Payments](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process#project-phases--associated-payments)
