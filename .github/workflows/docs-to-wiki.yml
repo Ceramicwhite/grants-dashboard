@@ -10,7 +10,7 @@ jobs:
      - name: github-docs-to-wiki
        uses: cmbrose/github-docs-to-wiki@v0.24
        with:
-          rootDocsFolder: "./docs/"
+          rootDocsFolder: "docs"
           convertRootReadmeToHomePage: "true"
           useHeaderForWikiName: "true"
-          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          githubToken: ${{ secrets.githubToken }}
