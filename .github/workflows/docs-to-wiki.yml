@@ -10,8 +10,8 @@ jobs:
      - name: github-docs-to-wiki
        uses: cmbrose/github-docs-to-wiki@v0.24
        with:
-          defaultBranch: "docs"
-          rootDocsFolder: "../docs/"
+
+          rootDocsFolder: "../tree/docs/docs/"
           convertRootReadmeToHomePage: "true"
           useHeaderForWikiName: "true"
           githubToken: ${{ secrets.githubToken }}
