@@ -10,7 +10,7 @@
 
 - [Introduction](#introduction)
   - [Funding Streams & Project Types](#funding-streams--project-types)
-- [Process](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process)
+- [Process](/docs/Process.md)
   - [Project Phases & Associated Payments](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process#project-phases--associated-payments)
     - [A. Application Review Phase](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process#a-application-review-phase)
     - [B. Onboarding Phase](https://github.com/Ceramicwhite/grants-dashboard/wiki/Process#b-onboarding-phase)
