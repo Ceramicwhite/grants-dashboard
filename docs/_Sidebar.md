@@ -10,7 +10,7 @@
   - [Payments](Payments)
     - [Payment Quantity, Milestone Quantity, & Payment Sizing](Payments#payment-quantity-milestone-quantity--payment-sizing)
     - [Payment Notes](Payments#payment-notes)
-- [Project & Project Application Guidelines](Project-Aplication-Guidelines#project--project-application-guidelines)
+- [Project Application Guidelines](Project-Aplication-Guidelines#project--project-application-guidelines)
   - [Project Requirements](Project-Aplication-Guidelines#project-requirements)
   - [Project Application Expectations](Project-Aplication-Guidelines#project-application-expectations)
   - [Project Application Suggestions](Project-Aplication-Guidelines#project-application-suggestions)

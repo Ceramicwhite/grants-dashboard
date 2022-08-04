@@ -1,4 +1,4 @@
-# Project & Project Application Guidelines <!-- omit in toc -->
+# Project Application Guidelines <!-- omit in toc -->
 
 - [Project & Project Application Guidelines](#project--project-application-guidelines)
   - [Project Requirements](#project-requirements)

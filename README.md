@@ -20,7 +20,7 @@
   - [Payments](https://github.com/Ceramicwhite/grants-dashboard/wiki/Payments)
     - [Payment Quantity, Milestone Quantity, & Payment Sizing](https://github.com/Ceramicwhite/grants-dashboard/wiki/Payments#payment-quantity-milestone-quantity--payment-sizing)
     - [Payment Notes](https://github.com/Ceramicwhite/grants-dashboard/wiki/Payments#payment-notes)
-- [Project & Project Application Guidelines](https://github.com/Ceramicwhite/grants-dashboard/wiki/Project-Aplication-Guidelines#project--project-application-guidelines)
+- [Project Application Guidelines](https://github.com/Ceramicwhite/grants-dashboard/wiki/Project-Aplication-Guidelines#project--project-application-guidelines)
   - [Project Requirements](https://github.com/Ceramicwhite/grants-dashboard/wiki/Project-Aplication-Guidelines#project-requirements)
   - [Project Application Expectations](https://github.com/Ceramicwhite/grants-dashboard/wiki/Project-Aplication-Guidelines#project-application-expectations)
   - [Project Application Suggestions](https://github.com/Ceramicwhite/grants-dashboard/wiki/Project-Aplication-Guidelines#project-application-suggestions)
