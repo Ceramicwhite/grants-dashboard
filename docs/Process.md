@@ -1,4 +1,4 @@
-# Project Phases & Associated Payments
+# Project Phases & Associated Payments <!-- omit in toc -->
 
 - [Project Phases & Associated Payments](#project-phases--associated-payments)
   - [A. Application Review Phase](#a-application-review-phase)
