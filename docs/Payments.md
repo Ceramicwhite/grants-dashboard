@@ -1,4 +1,4 @@
-# Payments
+# Payments <!-- omit in toc -->
 
 ### Payment Quantity, Milestone Quantity, & Payment Sizing
 

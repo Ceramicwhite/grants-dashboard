@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# Frequently Asked Questions <!-- omit in toc -->
 
 - [General](#general)
   - [Does a project need to be open-source to receive grant funding?](#does-a-project-need-to-be-open-source-to-receive-grant-funding)

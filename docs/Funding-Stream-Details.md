@@ -1,4 +1,4 @@
-# Funding Stream Details & Grant Types
+# Funding Stream Details & Grant Types <!-- omit in toc -->
 
 | FUNDING STREAMS              | PROJECT TYPE                        |                                         DETAILS |
 | ---------------------------- | :---------------------------------- | ----------------------------------------------: |
