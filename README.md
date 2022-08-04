@@ -47,31 +47,31 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 ## Funding Streams & Project Types
 
-| FUNDING STREAMS              | PROJECT TYPE                        |                                                                         DETAILS |
-| ---------------------------- | :---------------------------------- | ------------------------------------------------------------------------------: |
+| FUNDING STREAMS              | PROJECT TYPE                        |                                                                                                                     DETAILS |
+| ---------------------------- | :---------------------------------- | --------------------------------------------------------------------------------------------------------------------------: |
 | **Developer Grants**         |                                     |
 |                              | Open Source Starter Grant           |           [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#open-source-starter-grant) |
 |                              | Open Source Builder Grant           |           [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#open-source-builder-grant) |
-| **Community Grants**         |                                     |                                                                                 |
+| **Community Grants**         |                                     |                                                                                                                             |
 |                              | Stacks Community Builder Grant      |      [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-community-builder-grant) |
 |                              | Stacks Education Grant              |              [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-education-grant) |
 |                              | Stacks Event Grant                  |                  [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-event-grant) |
 |                              | Stacks Chapter Grant (by Region)    |      [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-chapter-grant-by-region) |
-| **Wishlist Grants**          |                                     |                                                                                 |
+| **Wishlist Grants**          |                                     |                                                                                                                             |
 |                              | Wishlist Grants                     |                     [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#wishlist-grants) |
-| **Advanced Support**         |                                     |                                                                                 |
+| **Advanced Support**         |                                     |                                                                                                                             |
 |                              | Stacks Foundation Resident Program  |  [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-foundation-resident-program) |
 |                              | Stacks Foundation Direct Investment | [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-foundation-direct-investment) |
-| **Ecosystem Partner Grants** |                                     |                                                                                 |
+| **Ecosystem Partner Grants** |                                     |                                                                                                                             |
 |                              | ALEX (DeFi) Grant                   |                     [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#alex-defi-grant) |
-| **Affiliated Organizations** |                                     |                                                                                 |
+| **Affiliated Organizations** |                                     |                                                                                                                             |
 |                              | Stacks Web3 Startup Lab             |             [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-web3-startup-lab) |
 |                              | Stacks Accelerator                  |                  [details](https://github.com/Ceramicwhite/grants-dashboard/wiki/Funding-Stream-Details#stacks-accelerator) |
 |                              |                                     |
 
 </br>
 
-<b>Visit the [Grants Process Wiki Page](https://github.com/Ceramicwhite/grants-dashboard/wiki/process)  for more information towards applying for a grant</b>
+<b>Visit the [Grants Process Wiki Page](https://github.com/Ceramicwhite/grants-dashboard/wiki/process) for more information towards applying for a grant</b>
 
 </br>
 
@@ -80,9 +80,9 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 <img src="./docs/assets/images/stacks-launchpad.png?s=50" width="250">
 
 - [Discussion Forums](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions)
-- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/projects/)
+- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/projects?type=classic)
 - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- [Project  Data Exporter](https://grants-dashboard.vercel.app/project-data-exporter)
+- [Project Data Exporter](https://grants.stacks.org/project-data-exporter)
 
 </br>
 
@@ -91,17 +91,16 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 </br>
 
 | <img src="./docs/assets/images/web.png?s=50" width="50"> | <img src="./docs/assets/images/discord.png?s=50" width="50"> | <img src="./docs/assets/images/twitter.png?s=50" width="50"> | <img src="./docs/assets/images/blog.png?s=50" width="50"> |
-| :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                                          [Stacks.co](https://stacks.co)                                           |                                       [Discord](https://discord.gg/5usXsXSUAK)                                        |                                         [Twitter](https://twitter.com/Stacks)                                         |                                          [Blog](https://stacks.org/blog)                                           |
+| :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|              [Stacks.co](https://stacks.co)              |           [Discord](https://discord.gg/5usXsXSUAK)           |            [Twitter](https://twitter.com/Stacks)             |              [Blog](https://stacks.org/blog)              |
 
 | <img src="./docs/assets/images/telegram.png?s=50" width="50"> | <img src="./docs/assets/images/reddit.png?s=50" width="50"> | <img src="./docs/assets/images/youtube-play.png?s=50" width="50"> | <img src="./docs/assets/images/calendar.png?s=50" width="50"> |
-| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                       [Telegram](https://t.me/BlockstackUpdate)                                        |                                     [ Reddit](https://www.reddit.com/r/stacks/)                                      |                                      [YouTube](https://www.youtube.com/c/Blockstack)                                       |                                [Calendar](https://community.stacks.org/events#calendar)                                |
+| :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------------------: |
+|           [Telegram](https://t.me/BlockstackUpdate)           |         [ Reddit](https://www.reddit.com/r/stacks/)         |          [YouTube](https://www.youtube.com/c/Blockstack)          |   [Calendar](https://community.stacks.org/events#calendar)    |
 
 - [Stacks Github](https://github.com/stacks-network)
 - [Community Telegram](https://t.me/StacksChat)
 - [Stacks Youtube](https://www.youtube.com/c/Blockstack)
-
 
 <img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
 
