@@ -13,5 +13,4 @@ jobs:
        with:
           #rootDocsFolder: "docs"
           convertRootReadmeToHomePage: "true"
-          useHeaderForWikiName: "true"
           githubToken: ${{ secrets.githubToken }}
