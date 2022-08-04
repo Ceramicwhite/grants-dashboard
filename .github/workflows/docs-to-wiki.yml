@@ -11,7 +11,7 @@ jobs:
        uses: cmbrose/github-docs-to-wiki@v0.24
        with:
 
-          rootDocsFolder: "../tree/docs/docs/"
+
           convertRootReadmeToHomePage: "true"
           useHeaderForWikiName: "true"
           githubToken: ${{ secrets.githubToken }}
