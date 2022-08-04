@@ -49,9 +49,10 @@
     <!---- [How do I submit a Milestone?](#how-do-i-submit-a-milestone) -->
   - [Can I change the scope of my project after the application has been approved?"](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
   - [My next milestone/deliverables have changed, what should I do?](#my-next-milestonedeliverables-have-changed-what-should-i-do)
+  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean)
   - [Can I submit a Grant for prior work?](#can-i-submit-a-grant-for-prior-work)
   - [I am unable to complete my grant, what are the steps for notifying the Grants team?](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
-  <!---  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean) -->
+
 
 ---
 
@@ -214,9 +215,9 @@ Please comment on your project issue within the repo and explain the reasoning f
 
 We do not approve grants for prior work. Applying for a grant to add new features will be considered as any other grant application.
 
-<!---### My Grant has become stale. What does this mean?
+### My Grant has become stale. What does this mean?
 
-??????????? -->
+Grants become stale after 30 days without activity and are closed after 60 days of inactivity. 
 
 ### I am unable to complete my grant, what are the steps for notifying the Grants team?
 
