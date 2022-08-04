@@ -1,7 +1,7 @@
 # Stacks Foundation Projects Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="/docs/assets/images/grants_program_header.png" style="width:1300px";>
+  <img src="./docs/assets/images/grants_program_header.png" style="width:1300px";>
 </p>
 
 ---
@@ -71,7 +71,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-<b>Visit the [Grants Process Page](https://github.com/Ceramicwhite/grants-dashboard/wiki/process) for next steps towards applying for a grant</b>
+<b>Visit the [Grants Process Wiki Page](https://github.com/Ceramicwhite/grants-dashboard/wiki/process)  for more information towards applying for a grant</b>
 
 </br>
 
@@ -81,8 +81,8 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 - [Discussion Forums](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions)
 - [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/projects/)
-- [STX Converter]()
-- [Data Exporter]()
+- [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+- [Project  Data Exporter](https://grants-dashboard.vercel.app/project-data-exporter)
 
 </br>
 
@@ -102,7 +102,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 - [Community Telegram](https://t.me/StacksChat)
 - [Stacks Youtube](https://www.youtube.com/c/Blockstack)
 
-</br>
 
 <img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
 
@@ -120,4 +119,5 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 - [Stacks Ventures](https://stacksventures.io/)
 - [Stacks Accelerator](https://stacks.ac/)
-- [Stacks Web3 Startup Lab]()
+- [Stacks Web3 Startup Lab](https://www.web3startuplab.io/)
+- [Bitcoin Odyseey](https://www.okcoin.com/bitcoinodyssey)
